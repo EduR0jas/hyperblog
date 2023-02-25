@@ -1,17 +1,17 @@
 body
 {
     text-align: center;
-    font-family: "Arial";
-    color: deeppink;
+    font-family: "Courier";
+    color: #333;
     margin: 0;
     padding: 0;
 }
 #container
 {
     width: 70%;
-    padding: lem;
+    padding: 1em;
     text-align: left;
-    border: lpx solid #ddd;
+    border: 1px solid #ddd;
     margin: 0 auto;
 }
 
